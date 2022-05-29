@@ -1,9 +1,9 @@
 # Bash
 ## Оглавление: 
 
-### -[Простые команды](https://github.com/TamirlanMakhov/Bash/main/README.md#Простые-команды) bash: №1-15
+### -[Простые команды](https://github.com/TamirlanMakhov/Bash/blob/main/README.md#Простые-команды) bash: №1-15
 
-### -[Скрипты и условные конструкции](https://github.com/TamirlanMakhov/Bash/main/README.md#Скрипты-и-условные-конструкции): №15-21
+### -[Скрипты и условные конструкции](https://github.com/TamirlanMakhov/Bash/blob/main/README.md#Скрипты-и-условные-конструкции): №15-21
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
  **Задания:**
